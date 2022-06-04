@@ -6,9 +6,9 @@ Main source code is located at: Woods/core/src/game/
 
 To run in the source code, use Woods/desktop/src/com/woods/game/desktop/DesktopLauncher.java
 
-You can also view the game on the web: https://redwoodhugger.itch.io/wood-simulator
+You can also view the game on the web: https://marileez.itch.io/collision-game
 
-I used GWT to turn the java code to HTML5 compatible code. And I used the libGDX java framework to create the graphics.
+We used GWT to turn the java code to HTML5 compatible code. And I used the libGDX java framework to create the graphics.
 
 'woods.java' is the main controlling class. The other two main sub classes are 'Boardscreen.java' and 'MainMenu.java'.
 
